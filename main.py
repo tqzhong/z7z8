@@ -2,7 +2,7 @@ import numpy as np
 import torch
 
 ITER = 200
-K = 8
+K = 9
 
 def get_data(data_path):
     f = open(data_path, 'r')
